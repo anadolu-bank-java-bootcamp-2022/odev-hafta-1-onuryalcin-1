@@ -1,0 +1,7 @@
+Decomposition proje yönetiminde, proje kapsamı ve proje teslimatlarını daha küçük, daha yönetilebilir bileşenlere bölmek için kullanılan bir tekniktir.
+
+Karmaşık bir problemin yada projenin parçalara ayrılmadan, çözülmesi çok daha zordur. Aynı anda birçok farklı aşamayla uğraşmak, tüm aşamaları aynı anda düşünmek işimizi çok zorlaştıracaktır. Bu sebeple decomposition tekniğini kullanarak bir problemi birkaç küçük probleme bölmek ve her birini teker teker çözmekten işimizi kolaylaştırır. Problemi daha küçük parçalara bölmek, her küçük problemin daha detaylı olarak incelenebileceği anlamına gelir.
+
+Benzer şekilde, karmaşık bir sistemin nasıl çalıştığını anlamaya çalışmak, decomposition kullanarak daha kolaydır. Örneğin, bir bisikletin nasıl çalıştığını anlamak, tüm bisiklet daha küçük parçalara ayrılırsa ve her parça nasıl çalıştığını daha ayrıntılı görmek için incelenirse daha kolaydır.
+
+Örneğin bir projemiz olduğunu düşünelim projemizde yazacağız tüm kodları tek class içerisinde yazmak oldukça karışık ve zor olacaktır. Aynı zamanda bir değişiklik yapmak istediğimizde tüm class içerisinde değişiklik yapmak zorunda kalabiliriz. Bu sebeple projemizi farklı classlara ayırmak ve yazdığımız her metota tek bir görev vermek işimiz oldukça kolaylaştıracaktır.
